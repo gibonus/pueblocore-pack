@@ -63,6 +63,21 @@ hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
 
 [[files]]
+file = "mods/easy-npc-config-ui.pw.toml"
+hash = "ef73c7ad5d61d4b71683afcbca2c4110e206df564972c2a3d9fa7df7eb0338dd"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc-core.pw.toml"
+hash = "382822d20a0ced23f16be37bfda415c257200a9d7881467835928e084ad7c28f"
+metafile = true
+
+[[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "b47a5764be788fee9139b25e065706f351278d0e46a3b0a034f2913d07c93615"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "426238488c9ffd843f661f8bc74aa8e585fa6b4d342c43c4ba4cb8451298b725"
 metafile = true
@@ -80,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/festive-delight.pw.toml"
 hash = "14c243b7de6fd660549d9417293ea34ed1ef49d322d9a9e4de7e9f8dd344f397"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
@@ -168,8 +188,13 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
-file = "mods/pueblocore-0.9.0.jar"
-hash = "e29dd5ec30b6a777c723399357125d5836742c06afa669ed34a3df3bb61bf350"
+file = "mods/pueblocore-0.10.0.jar"
+hash = "cdb3f7bbc6a0be7be775db1e05d6b38cfa37b2746d13769a8fee138cfebe9bc4"
+
+[[files]]
+file = "mods/refurbished-furniture.pw.toml"
+hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
+metafile = true
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
