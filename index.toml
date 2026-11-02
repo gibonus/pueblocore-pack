@@ -98,11 +98,6 @@ hash = "14c243b7de6fd660549d9417293ea34ed1ef49d322d9a9e4de7e9f8dd344f397"
 metafile = true
 
 [[files]]
-file = "mods/framework.pw.toml"
-hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -115,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4601b9be31b6e131dca8a148c974d015444bcac7c82fcb66fbd8751a67933a5d"
+metafile = true
+
+[[files]]
+file = "mods/immersive-furniture.pw.toml"
+hash = "bbfa12151831fdf09e96f6d990fa0ae1b173938b68eefa84f14bd0436b64f994"
 metafile = true
 
 [[files]]
@@ -188,13 +188,13 @@ hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
 
 [[files]]
-file = "mods/pueblocore-0.10.0.jar"
-hash = "cdb3f7bbc6a0be7be775db1e05d6b38cfa37b2746d13769a8fee138cfebe9bc4"
+file = "mods/paladins-furniture.pw.toml"
+hash = "232ed0efcbdd96c2c5b7d8e760eea930f45753ac2244cedba6c06f9e033fe701"
+metafile = true
 
 [[files]]
-file = "mods/refurbished-furniture.pw.toml"
-hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
-metafile = true
+file = "mods/pueblocore-0.10.0.jar"
+hash = "cdb3f7bbc6a0be7be775db1e05d6b38cfa37b2746d13769a8fee138cfebe9bc4"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
