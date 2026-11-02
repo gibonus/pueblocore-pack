@@ -1,6 +1,11 @@
 [
     {
         "date":  "2026-11-02",
+        "title":  "Muebles nuevos",
+        "body":  "Modpack 0.1.7: cambiamos los muebles de MrCrayfish por Paladin\u0027s Furniture (cocinas, baños, teles...) e Immersive Furniture (cientos de muebles bonitos de su biblioteca online). Búscalos en el JEI."
+    },
+    {
+        "date":  "2026-11-02",
         "title":  "La vida del pueblo",
         "body":  "PuebloCore 0.10: trueques en las tiendas, multas, subastas, encargos, correo, el periódico de los domingos, Rasca y Gana, calendario de adviento y casino. Además, muebles de MrCrayfish y NPCs. Pulsa G y descúbrelo."
     },
