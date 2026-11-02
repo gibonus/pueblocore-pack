@@ -13,6 +13,11 @@ file = "config/twilightforest-common.toml"
 hash = "cd57ae01a4257e47a5c38fe3c305f8a93699c2c6b435f65e7933bd587f273a68"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "bce3cfb2ca545a3b0cad83d8137f36b83b4c137dd4c6dae6e73d1783f78eb8ab"
 metafile = true
@@ -40,6 +45,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "68cc51e721e993a8b7a2cbaf45369933b22b07a9c82327ab14757ee10684aa81"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "c7f15ebcab95f04c71940715f09ced4caad2775a91ef34389431f91bc1c7be71"
 metafile = true
 
 [[files]]
@@ -153,8 +163,18 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+metafile = true
+
+[[files]]
 file = "mods/pueblocore-0.9.0.jar"
 hash = "e29dd5ec30b6a777c723399357125d5836742c06afa669ed34a3df3bb61bf350"
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "e229505042a240cab6573e498c7e713a6224341849efcf414a43b7e4131823bc"
+metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
@@ -174,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "5995decc8738d7ddccec218dfa1ed95db9eca5bb64c98fd2cede8bf9bbc837c2"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
 metafile = true
 
 [[files]]
