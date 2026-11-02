@@ -5,6 +5,10 @@ file = "config/artifacts/general.toml"
 hash = "f6370364744a145574aa242893952d08e176d54fadafb4544a955de9d54cf6dd"
 
 [[files]]
+file = "config/pfm.json"
+hash = "1f6433e1e6acd33c691436d88d1a0ab459942cda27bb63a273c305af0df546c6"
+
+[[files]]
 file = "config/supplementaries-common.toml"
 hash = "0b0e71c929b16599faf4832f62af529d840483ac7c1f975f56088415154a249c"
 
