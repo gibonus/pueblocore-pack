@@ -1,6 +1,11 @@
 [
     {
         "date":  "2026-11-02",
+        "title":  "Servidor más rápido",
+        "body":  "Modpack 0.1.5: el servidor genera terreno y estructuras más rápido y aguanta mejor las granjas. No tienes que descargar nada nuevo."
+    },
+    {
+        "date":  "2026-11-02",
         "title":  "Muebles para tu casa",
         "body":  "Modpack 0.1.4: Handcrafted y Macaw\u0027s traen muebles, lámparas y ventanas para decorar por dentro. Búscalos en el JEI con @handcrafted o @mcw."
     },
