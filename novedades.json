@@ -1,6 +1,11 @@
 [
     {
         "date":  "2026-11-03",
+        "title":  "Títulos",
+        "body":  "Pesca, pelea, pica, comercia o juega en el casino y gana títulos que se ven detrás de tu nombre: Pescador, Minero veterano, Magnate, Ludópata... y algunos secretos. Míralos en /pueblo \u003e Títulos."
+    },
+    {
+        "date":  "2026-11-03",
         "title":  "Ruleta de casino de verdad",
         "body":  "La mesa de ruleta ahora es grande: ocupa 4 x 2 bloques, con una rueda el doble de grande y el tapete de apuestas con todos los números. Se juega pulsando en cualquier parte de la mesa."
     },
