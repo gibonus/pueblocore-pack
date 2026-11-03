@@ -1,6 +1,11 @@
 [
     {
         "date":  "2026-11-03",
+        "title":  "Lupa, denuncias y eventos",
+        "body":  "El sheriff tiene una lupa para descubrir quién rompió o robó qué. Ya puedes poner denuncias en /pueblo \u003e Policía. Y en Ocio: caza del tesoro (¡ya hay uno escondido!), torneo del domingo a las 18:00 y vecino de la semana."
+    },
+    {
+        "date":  "2026-11-03",
         "title":  "Títulos",
         "body":  "Pesca, pelea, pica, comercia o juega en el casino y gana títulos que se ven detrás de tu nombre: Pescador, Minero veterano, Magnate, Ludópata... y algunos secretos. Míralos en /pueblo \u003e Títulos."
     },
