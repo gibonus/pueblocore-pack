@@ -1,6 +1,11 @@
 [
     {
         "date":  "2026-11-03",
+        "title":  "Música propia en discos",
+        "body":  "Nuevo mod Music Disc Maker: crea discos con cualquier canción (enlace de YouTube, Spotify, SoundCloud o un archivo tuyo), guárdalos en álbumes y escúchalos por ahí con el Boombox. Esta actualización pesa unos 35 MB más."
+    },
+    {
+        "date":  "2026-11-03",
         "title":  "Lupa, denuncias y eventos",
         "body":  "El sheriff tiene una lupa para descubrir quién rompió o robó qué. Ya puedes poner denuncias en /pueblo \u003e Policía. Y en Ocio: caza del tesoro (¡ya hay uno escondido!), torneo del domingo a las 18:00 y vecino de la semana."
     },
