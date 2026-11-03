@@ -187,6 +187,11 @@ hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
+file = "mods/music-disc-maker.pw.toml"
+hash = "bf4c7e366a515b077b532b8be5b51ae8c656b8607c03fa6f700e06730967556c"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
 metafile = true
