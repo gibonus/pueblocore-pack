@@ -221,8 +221,8 @@ hash = "232ed0efcbdd96c2c5b7d8e760eea930f45753ac2244cedba6c06f9e033fe701"
 metafile = true
 
 [[files]]
-file = "mods/pueblocore-0.12.2.jar"
-hash = "3aa133682b901ae70ddeac2e8de1b42568305bbbba8aadf5882f9732869b7e4a"
+file = "mods/pueblocore-0.13.0.jar"
+hash = "652cbbd9e49d05f45d8c7cfa82df062af858d767053292e842e4a55d14c31219"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
@@ -237,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/security-craft.pw.toml"
 hash = "be006289efad5ec4a8787d0173ffbdb276a3957f776ad2cca4857876348c4300"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6f9502735fcac7a35468358e2aa0fd9333b12df885db3325c472d298ce315a72"
 metafile = true
 
 [[files]]
