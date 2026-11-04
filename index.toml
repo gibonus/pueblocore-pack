@@ -5,6 +5,10 @@ file = "config/artifacts/general.toml"
 hash = "f6370364744a145574aa242893952d08e176d54fadafb4544a955de9d54cf6dd"
 
 [[files]]
+file = "config/immersive_paintings/common_config.toml"
+hash = "0b666b8420d9b4cdde5d171a52f795452267367f13977bdbcab3766c0767a92a"
+
+[[files]]
 file = "config/pfm.json"
 hash = "1f6433e1e6acd33c691436d88d1a0ab459942cda27bb63a273c305af0df546c6"
 
@@ -102,6 +106,11 @@ hash = "14c243b7de6fd660549d9417293ea34ed1ef49d322d9a9e4de7e9f8dd344f397"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "f2849c357f9c82d017ff71c6d5e91ac8e51d6b0f2de9e7ae8d95bfb81759cd63"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "35779b39ddc06059ec483b33de2ecfdc3adb95c0a49e69b6701fb0024827e2f5"
 metafile = true
@@ -122,6 +131,11 @@ hash = "bbfa12151831fdf09e96f6d990fa0ae1b173938b68eefa84f14bd0436b64f994"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "a46a4220e4d467208a042ccd05cc8c2908733f02da6f5ecd532ab4cb2ed72909"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "b603d3cbdecf7fcbff5cde2cc76b77ec044f3d9aa75bdd5b15eb35ee0d33f71c"
 metafile = true
@@ -129,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "73bea4cbeda6b41b5d610d4c4c90e827d7cd291811dcaba8ec336586953a85be"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
@@ -202,8 +221,8 @@ hash = "232ed0efcbdd96c2c5b7d8e760eea930f45753ac2244cedba6c06f9e033fe701"
 metafile = true
 
 [[files]]
-file = "mods/pueblocore-0.12.1.jar"
-hash = "598270c68d4de40d88d33b6e5f677670443d729e68dc1f319b8b32bd6930abab"
+file = "mods/pueblocore-0.12.2.jar"
+hash = "3aa133682b901ae70ddeac2e8de1b42568305bbbba8aadf5882f9732869b7e4a"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
