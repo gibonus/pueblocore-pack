@@ -1,6 +1,11 @@
 [
     {
         "date":  "2026-11-04",
+        "title":  "Juicios, juez, tablón y chat de voz",
+        "body":  "Nuevo cargo de juez y juicios (Gobierno \u003e Juicios): recurre multas o arrestos, el sheriff lleva denuncias a juicio y puedes querellarte contra un cargo; deciden los vecinos que vayan a la sala. Tablón de encargos en la plaza para pedir lo que te dé pereza conseguir. Y chat de voz: pulsa V para elegir micrófono."
+    },
+    {
+        "date":  "2026-11-04",
         "title":  "Cuadros con tus imágenes",
         "body":  "Vuelve Immersive Paintings: cuelga cuadros con cualquier imagen (arrastra un archivo, una captura o un enlace). Elige el tamaño, el marco y el material. Máximo 40 imágenes por jugador."
     },
