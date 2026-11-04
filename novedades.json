@@ -1,5 +1,10 @@
 [
     {
+        "date":  "2026-11-04",
+        "title":  "Cuadros con tus imágenes",
+        "body":  "Vuelve Immersive Paintings: cuelga cuadros con cualquier imagen (arrastra un archivo, una captura o un enlace). Elige el tamaño, el marco y el material. Máximo 40 imágenes por jugador."
+    },
+    {
         "date":  "2026-11-03",
         "title":  "Música propia en discos",
         "body":  "Nuevo mod Music Disc Maker: crea discos con cualquier canción (enlace de YouTube, Spotify, SoundCloud o un archivo tuyo), guárdalos en álbumes y escúchalos por ahí con el Boombox. Esta actualización pesa unos 35 MB más."
