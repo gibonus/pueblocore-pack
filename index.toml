@@ -21,6 +21,26 @@ file = "config/twilightforest-common.toml"
 hash = "cd57ae01a4257e47a5c38fe3c305f8a93699c2c6b435f65e7933bd587f273a68"
 
 [[files]]
+file = "emotes/pueblo_jota.json"
+hash = "457a898ec183f51e9d24077a30d76710a43cfac38e3eeb5d0bff14a2f1a1c499"
+
+[[files]]
+file = "emotes/pueblo_pollito.json"
+hash = "cbc99876b04679e9d3ffeec15f4b27a7edd4a6a3d62b71fdcee71632a95de282"
+
+[[files]]
+file = "emotes/pueblo_robot.json"
+hash = "f5e94d4db6cd632924ed623cf5d8514491a8ded1b14c9d6cb8437255e601b36e"
+
+[[files]]
+file = "emotes/pueblo_sevillanas.json"
+hash = "016ccc2d6241f24f4d3f2505971a8de3f2dd030393527ec7e544446e9b30538d"
+
+[[files]]
+file = "emotes/pueblo_victoria.json"
+hash = "614d6b1bef91242e7ff532fac22350093b604e51855e3f1f72730a6f565e613b"
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
 metafile = true
@@ -83,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/easy-npc.pw.toml"
 hash = "b47a5764be788fee9139b25e065706f351278d0e46a3b0a034f2913d07c93615"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
 metafile = true
 
 [[files]]
@@ -221,8 +246,8 @@ hash = "232ed0efcbdd96c2c5b7d8e760eea930f45753ac2244cedba6c06f9e033fe701"
 metafile = true
 
 [[files]]
-file = "mods/pueblocore-0.13.2.jar"
-hash = "796e2e7bcda28c2653a3d8fd866193734a579353f36eee27d07a597231d9a114"
+file = "mods/pueblocore-0.14.0.jar"
+hash = "e3b299d11d2b5376afd8d35862bb1a7bc7dafe1e1ac938b1c8b79942ae82138f"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
