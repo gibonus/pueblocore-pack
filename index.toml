@@ -176,6 +176,11 @@ hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
@@ -246,8 +251,8 @@ hash = "232ed0efcbdd96c2c5b7d8e760eea930f45753ac2244cedba6c06f9e033fe701"
 metafile = true
 
 [[files]]
-file = "mods/pueblocore-0.18.0.jar"
-hash = "b3a457029999a3935598079a010ab638aa380cb6a045b52518177fb6adc883eb"
+file = "mods/pueblocore-0.18.1.jar"
+hash = "f3552c9597a6a5df46dd8fe97aa0cff8136027d4def3ac2cc8da99bc4e6f0618"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
