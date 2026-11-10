@@ -1,6 +1,11 @@
 [
     {
         "date":  "2026-11-05",
+        "title":  "Fama",
+        "body":  "Ahora todos tenéis fama, de 0 a 100. Baja con la cárcel, las multas, los juicios perdidos y matando a otros jugadores; sube cada día sin delitos y con buenas obras. Con mala fama tu nombre sale en rojo y pagas más en tiendas e impuestos. Mírala en el panel (G \u003e Inicio) o con /pueblo fama."
+    },
+    {
+        "date":  "2026-11-05",
         "title":  "Rueda de bailes",
         "body":  "Pulsa B para bailar. Saludar, Aplaudir y otros cuatro son gratis; Sevillanas, El robot, La jota, El pollito, ¡Victoria! y más se aprenden con lecciones de la tienda municipal. /pueblo bailes te dice cuáles sabes."
     },
