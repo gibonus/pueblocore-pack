@@ -251,8 +251,8 @@ hash = "232ed0efcbdd96c2c5b7d8e760eea930f45753ac2244cedba6c06f9e033fe701"
 metafile = true
 
 [[files]]
-file = "mods/pueblocore-0.18.1.jar"
-hash = "f3552c9597a6a5df46dd8fe97aa0cff8136027d4def3ac2cc8da99bc4e6f0618"
+file = "mods/pueblocore-0.18.2.jar"
+hash = "0f281d7e8c5321960fba0e9ecb672fc9eafe8ed4edc344e0a46ea4df7879116d"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
