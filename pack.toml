@@ -1,12 +1,12 @@
 name = "PuebloCore"
 author = "Dani"
-version = "0.1.20"
+version = "0.1.21"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4412ee6f4c380f80b878ae4dcd151e23e92a7267d3ef68ca3a618bd72ac27d42"
+hash = "791fd3fece2df89f06e90e09946cbea294de9c011f6c27ebf80617d45f901c1b"
 
 [versions]
 minecraft = "1.21.1"
