@@ -1,6 +1,11 @@
 [
     {
         "date":  "2026-11-14",
+        "title":  "Tumbas y Objetos Perdidos",
+        "body":  "Al morir, tus cosas quedan en una tumba que solo tú puedes abrir: tienes 20 minutos para recogerlas gratis. Después, el ayuntamiento las guarda en Objetos Perdidos y te llegan al buzón: las recoges pagando una tasa según lo que valen. Si en 24 horas no la pagas, salen a subasta. Quien te mate pierde fama, te paga una indemnización y nunca podrá quedarse tus cosas."
+    },
+    {
+        "date":  "2026-11-14",
         "title":  "¡Llegan las mochilas!",
         "body":  "Fabrica una mochila con cuero, cuerda y un cofre, y mejórala a cobre, hierro, oro, diamante y netherita. Admite mejoras como imán, recogida, horno o mesa de crafteo. Si la llevas a la espalda, cierra el candado en sus Ajustes («Otro jugador NO puede abrir»): si se te olvida, otros podrán abrirla. Al morir no la pierdes: reapareces con ella y todo lo que llevaba."
     },
