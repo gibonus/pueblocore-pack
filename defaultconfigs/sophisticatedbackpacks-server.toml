@@ -1,0 +1,11 @@
+# PuebloCore: solo se fijan estos ajustes; el resto los completa el mod con sus valores por defecto.
+[server]
+	# Lo que no cabe en sacos ni cajas de shulker (como el paquete de contrabando) tampoco cabe en la mochila.
+	containerItemsDisallowed = true
+	# Cada mochila tiene su candado en Ajustes ("Otro jugador NO puede abrir"); sin él, otros pueden abrirla en tu espalda.
+	allowOpeningOtherPlayerBackpacks = true
+
+	# Ningún mob (zombis, esqueletos...) aparece con mochila, ni con música.
+	[server.entityBackpackAdditions]
+		chance = 0.0
+		playJukebox = false

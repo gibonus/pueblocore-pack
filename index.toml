@@ -21,6 +21,10 @@ file = "config/twilightforest-common.toml"
 hash = "cd57ae01a4257e47a5c38fe3c305f8a93699c2c6b435f65e7933bd587f273a68"
 
 [[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "a26e7cf71d480bbd987c6b3a2c79a373e990a4d8a407160347ec85fb9a770a21"
+
+[[files]]
 file = "emotes/pueblo_jota.json"
 hash = "457a898ec183f51e9d24077a30d76710a43cfac38e3eeb5d0bff14a2f1a1c499"
 
@@ -251,8 +255,8 @@ hash = "232ed0efcbdd96c2c5b7d8e760eea930f45753ac2244cedba6c06f9e033fe701"
 metafile = true
 
 [[files]]
-file = "mods/pueblocore-0.18.2.jar"
-hash = "0f281d7e8c5321960fba0e9ecb672fc9eafe8ed4edc344e0a46ea4df7879116d"
+file = "mods/pueblocore-0.18.3.jar"
+hash = "99225a57110a7b868cbe64370356bbabf17c205aa8d4f57629ccf695f3a513ac"
 
 [[files]]
 file = "mods/resourceful-config.pw.toml"
@@ -277,6 +281,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2a001cdb3d5ac4970d422914083c27380eba8ebd40dfd435754fe6566ba78beb"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "882a37f53c24ebad93b2fcd5feb972154f9c6df42d94e4b9282edfdafe595f41"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "37d7f4f675745426675aca481229e26706c4d9196db009070e27ce5c2db3563c"
 metafile = true
 
 [[files]]
