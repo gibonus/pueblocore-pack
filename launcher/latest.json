@@ -1,11 +1,11 @@
 {
-    "version":  "0.1.5",
-    "notes":  "Arreglado: a veces había que pulsar Jugar dos veces para que se abriera Minecraft.",
-    "pub_date":  "2026-11-14T13:58:07Z",
+    "version":  "0.1.6",
+    "notes":  "Arreglado de verdad: Minecraft tardaba cada vez más en abrirse o no llegaba a abrirse. La primera vez que pulses Jugar tardará un poco más mientras se limpia.",
+    "pub_date":  "2026-11-14T14:11:51Z",
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU3R3TnJWektQNHk3aGRFVEJFNjMzUVJPbEdIL0ZaTTVrbUdRNU5RSHJvMldsUk5oMVpmMjNTb0g5TlBuYit1alhKLzE4bllEcG5vWkNYQXZMdklYSzlRbmNKbzhnQmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjYzMDE4CWZpbGU6UHVlYmxvQ29yZSBMYXVuY2hlcl8wLjEuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjUKZGs4ZkU3cUxHNmtSUzJidVphbVU1ajIzZWtWbTV1VFJJOEUzbnpaMTNDeEVNRndSdFFRbkVlWXZFc05WeXRJWEtiemYyOHhTMjRBQlIzVkpmRTlZRGc9PQo=",
-                                             "url":  "https://raw.githubusercontent.com/gibonus/pueblocore-pack/main/launcher/PuebloCore-Launcher_0.1.5_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU3R3TnJWektQNCtnUXYreTJBbHk0T05FaTE3ZHQvMExhYlZYNW9pTVBFUDNQemgzUlpXSTlBWGhYS0lwSlJpR2Izb2w0aGJYazluWW9ZckNmbk00ZTYweFQ0OFJyUlE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NjY1Mzc4CWZpbGU6UHVlYmxvQ29yZSBMYXVuY2hlcl8wLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjYKZTV5NVBoZUdheTFRdkZncUNoTWd5WjZ5a2RTL3gyQ0luTXBvb0k0SHpsSXZNN3B5U3d5Z3EvaDljRkRmNm1Pc2crckpCRVRQaE44enFpc3NVbWtYRFE9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/gibonus/pueblocore-pack/main/launcher/PuebloCore-Launcher_0.1.6_x64-setup.exe"
                                          }
                   }
 }
