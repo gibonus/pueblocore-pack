@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.7",
+    "notes":  "Arreglados los acentos y símbolos que se veían mal en la pantalla principal (Jugarás como…, Versión…).",
+    "pub_date":  "2026-11-14T16:52:33Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU3R3TnJWektQNHhaYVVhbU1sS0EvRTNtNUpTUGwwM1FsRENSSWUwNkhpeFR4Qm5HNGxaZFY1VEgyRCtCTytPSTJsRHROcU9aeDFGT0RPdk96a21SeU1vczQxQ0xUMnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Njc1MDMzCWZpbGU6UHVlYmxvQ29yZSBMYXVuY2hlcl8wLjEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjcKamtZU2NSSVRHbWdVT1FaREllTjlnR0M3SGtaS0c1bk1keUVmNE5zYzF3VFg1Vk1XYzcrRkdMaXFBbE9VeTZUUlIyVTJ6RWQ1Mk1aTys4VTNoV3YzRGc9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/gibonus/pueblocore-pack/main/launcher/PuebloCore-Launcher_0.1.7_x64-setup.exe"
+                                         }
+                  }
+}
