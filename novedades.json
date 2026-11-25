@@ -1,5 +1,10 @@
 [
     {
+        "date":  "2026-11-25",
+        "title":  "Pack 0.1.27",
+        "body":  "Actualización obligatoria del pack. Mejoras internas y preparativos para las fiestas."
+    },
+    {
         "date":  "2026-11-14",
         "title":  "Tumbas y Objetos Perdidos",
         "body":  "Al morir, tus cosas quedan en una tumba que solo tú puedes abrir: tienes 20 minutos para recogerlas gratis. Después, el ayuntamiento las guarda en Objetos Perdidos y te llegan al buzón: las recoges pagando una tasa según lo que valen. Si en 24 horas no la pagas, salen a subasta. Quien te mate pierde fama, te paga una indemnización y nunca podrá quedarse tus cosas."
