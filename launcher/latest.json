@@ -1,0 +1,11 @@
+{
+    "version":  "0.1.8",
+    "notes":  "Memoria del juego ajustada automáticamente a tu PC y actualizaciones más fiables.",
+    "pub_date":  "2026-11-25T13:29:32Z",
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSU3R3TnJWektQNDZTcDhXS0dwV3Qva20rU0RXQjFqblRnYzZaTHBRbkhNQ29wUHh5d09NUUlhcHRjNmxBMjhxSkd4K09vQWVCYlFJRHorNG1QZjZ1eEk0TnNJUmRWclFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjEyMzUyCWZpbGU6UHVlYmxvQ29yZSBMYXVuY2hlcl8wLjEuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjgKOFRyeC91eGNiMWRob0RjeVZ1aVVlaHZ5K3ZsaTh2UzVmVTd1am8vV29SSExEa1IzNlY4Mi95T1BISENxZk85QmVGM3NjQ2cxTjYzdkZiK1NFTXpwREE9PQo=",
+                                             "url":  "https://raw.githubusercontent.com/gibonus/pueblocore-pack/main/launcher/PuebloCore-Launcher_0.1.8_x64-setup.exe"
+                                         }
+                  }
+}
